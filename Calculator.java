@@ -7,7 +7,7 @@ package calculator;
 
 /**
  *
- * @author prashiksha
+ * @author naman
  */
 public class Calculator extends javax.swing.JFrame {
 //variables
